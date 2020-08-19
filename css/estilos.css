@@ -30,7 +30,7 @@ body{
     padding: 1em;
     text-align: left;
     border: 1px solid #dddddd;
-    margin: auto;
+    margin: 0 auto;
 }
 
 #container h1{
