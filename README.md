@@ -1,5 +1,6 @@
 # Hyperblog💚
 **Mi repositorio del curso de git-github de platzi**
+https://miltonials.github.io/blogpost.html
 
 :smiley:
 Hola! Mi nombre es Milton y poco a poco voy dando pasitos como un pequño bebé que se está dentrando al mundo del código.👨🏻‍💻
