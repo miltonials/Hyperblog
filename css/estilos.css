@@ -42,6 +42,10 @@ body{
     padding: 1em;
 }
 
+#container #post #resume{
+    text-align: center;
+}
+
 #footer {
     text-align: center;
     background: #777777;
